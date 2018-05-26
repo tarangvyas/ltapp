@@ -7,9 +7,9 @@ import {
 let axiosConfig = {
     headers: {
         'Content-Type': 'application/json;charset=UTF-8',
-        "Accept": 'application/json',
+        'Accept': 'application/json',
         'Access-Control-Allow-Origin': '*',
-        "mode": 'no-cors',
+        'mode': 'no-cors',
     }
   };
 
