@@ -10,11 +10,8 @@ let axiosConfig = {
   headers: {
       'Content-Type': 'application/json;charset=UTF-8',
       "Accept": 'application/json',
-      mode: 'no-cors',
-      headers: {
-        'Access-Control-Allow-Origin': '*',
-        'Content-Type': 'application/json',
-      },
+      'Access-Control-Allow-Origin': '*',
+      "mode": 'no-cors',
   }
 };
 
