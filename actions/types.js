@@ -1,5 +1,5 @@
 //export const ROOT_URL    = 'https://surveyapi.appivly.com/';
-export const ROOT_URL    = 'http://111.93.221.222/lotus_api/public/api';
+export const ROOT_URL    = 'https://111.93.221.222/lotus_api/public/api';
 
 export const FETCH_REGEX_STRING = 'FETCH_REGEX_STRING';
 
@@ -23,7 +23,7 @@ export const ADD_CARIMAGE_SUCCESS = 'ADD_CARIMAGE_SUCCESS';
 export const ADD_CARIMAGE_FAILURE = 'ADD_CARIMAGE_FAILURE';
 export const SELLMYCAR_SUCCESS = 'SELLMYCAR_SUCCESS';
 export const SELLMYCAR_FAILURE = 'SELLMYCAR_FAILURE';
-export const STORAGE_URL = 'http://111.93.221.222/lotus_api/storage/app/';
+export const STORAGE_URL = 'https://111.93.221.222/lotus_api/storage/app/';
 /*SELLMYCAR*/
 
 /* VIEW CMS DETAIL PAGE */
