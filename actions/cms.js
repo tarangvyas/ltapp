@@ -9,7 +9,7 @@ import {
 export function Fetchcontent(page_name){
   
   return function (dispatch) {
-      axios.get(`${ROOT_URL}/`+page_name)
+      axios.get(`${ROOT_URL}/page/`+page_name)
           .then(response => {
             
               dispatch({
